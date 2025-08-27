@@ -127,3 +127,12 @@ Recomendaciones basadas en favoritos
 Compartir libros en redes sociales
 
 Sistema de valoraciones y reseñas
+
+<img width="512" height="828" alt="image" src="https://github.com/user-attachments/assets/105f3bde-5c31-40ad-b8dd-405547b8358c" />
+
+<img width="395" height="832" alt="image" src="https://github.com/user-attachments/assets/4a2beb5d-4dbd-4eb1-8743-1a894dec3fa4" />
+<img width="395" height="832" alt="image" src="https://github.com/user-attachments/assets/521b1e5e-9b8e-47c2-a092-184f48426e38" />
+<img width="395" height="832" alt="image" src="https://github.com/user-attachments/assets/4010c2d2-aea4-4d45-b738-ab408e3b24c2" />
+
+
+
